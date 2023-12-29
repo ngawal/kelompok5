@@ -56,3 +56,10 @@ class AyamGeprek(BaseMenu):
 class TelaTela(BaseMenu):
     def __str__(self):
         return f"{self.nama_menu} | {self.deskripsi}"
+    
+
+#jawaban nomor 2 : Ya, yaitu pada class AyamGeprek dan class tela-tela yang memiliki perilaku yang berbeda dari kelas induknya yaitu class Base Menu, pada class AymGeprek 
+#perilaku kelasnya menampilkan nama menu dan harga sedangkan class tela-tela menampilkan nama menu dan deskripsi
+
+
+
